@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Subha2250/Subha2250-/blob/main/GitHub.png.png)
 
 <h1 align="center">Hi 👋, I'm Subhajit Mazumdar</h1>
 <h3 align="center">A passionate software developer from India</h3>
